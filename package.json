@@ -1,0 +1,8 @@
+{
+  "name": "buy_me_a_coffe",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.19.4"
+  }
+}
